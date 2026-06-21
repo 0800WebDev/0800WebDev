@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm 0800
 
-<!--
-**0800WebDev/0800WebDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I’m a coder interested in making websites and unblocked games 
+## languages i know
+- HTML
+- CSS
+- JavaScript
 
-Here are some ideas to get you started:
+## Projects
+- PGIS 2 — an unblocked games site with a lot of games
+- PGIS 3 — The third version of PGIS, still in alpha
+- Zinc — a static proxy forked from nexus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- I'm currently working on PGIS 3.
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=0800WebDev&show_icons=true)
+
+## Contact
+- Main email: spmspy0800@gmail.com
+- Alt email: 0800WebTest@gmail.com 
+
+---
+
