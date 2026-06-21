@@ -20,8 +20,8 @@ I’m a coder interested in making websites and unblocked games
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=0800WebDev&show_icons=true)
 
-## GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=0800WebDev)
+## Profile View Counter
+![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
 
 ## Streak
 ![Streak](https://streak-stats.demolab.com?user=0800WebDev)
