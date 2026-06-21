@@ -7,6 +7,8 @@ I’m a coder interested in making websites and unblocked games
 - CSS
 - JavaScript
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
+
 ## Projects
 - PGIS 2 — an unblocked games site with a lot of games
 - PGIS 3 — The third version of PGIS, still in alpha
