@@ -20,6 +20,9 @@ I’m a coder interested in making websites and unblocked games
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=0800WebDev&show_icons=true)
 
+## streak
+![Streak](https://streak-stats.demolab.com?user=0800WebDev)
+
 ## Contact
 - Main email: spmspy0800@gmail.com
 - Alt email: 0800WebTest@gmail.com 
