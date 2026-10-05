@@ -23,7 +23,7 @@ I’m a coder interested in making websites and unblocked games
 ![Views](https://komarev.com/ghpvc/?username=0800WebDev)
 
 ## Streak
-![Streak](https://streak-stats.demolab.com?user=0800WebDev)
+![Streak](https://streak-stats.demolab.com?user=0800webdev)
 
 ## Contact
 - Main email: spmspy0800@gmail.com
